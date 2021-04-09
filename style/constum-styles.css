@@ -1,0 +1,27 @@
+.header,
+.footer {
+	background-color: #0d6efd;
+	padding: 0%;
+	height: 70px;
+}
+.sidebar {
+	background-color: lightgray;
+}
+.img {
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	height: auto;
+}
+#cobg {
+	color: white;
+}
+
+#nav123{
+	background-color: #0d6efd;
+}
+
